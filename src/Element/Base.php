@@ -100,7 +100,8 @@ abstract class Base
      */
     public function getElementName()
     {
-        return strtolower(end(explode('_', $this->getElementClass())));
+        $buf = explode('_', $this->getElementClass());
+        return strtolower(end($buf));
     }
 
     /**
