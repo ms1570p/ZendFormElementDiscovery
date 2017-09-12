@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "App\\ZendFormElementDiscovery\\": "src/"
+      "Ms1570p\\ZendFormElementDiscovery\\": "src/"
     }
   },
   "config": {
