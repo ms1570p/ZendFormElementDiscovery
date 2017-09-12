@@ -1,11 +1,11 @@
 <?php
 
-namespace App\ZendFormElementDiscovery\Element;
+namespace ms1570p\ZendFormElementDiscovery\Element;
 
 /**
  * Class Number
  *
- * @package App\ZendFormElementDiscovery\Element
+ * @package ms1570p\ZendFormElementDiscovery\Element
  */
 class Number extends Base
 {

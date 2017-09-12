@@ -1,6 +1,6 @@
 <?php
 
-namespace App\ZendFormElementDiscovery\Element;
+namespace ms1570p\ZendFormElementDiscovery\Element;
 
 use Twitter_Bootstrap3_Form;
 use Zend_Db_Table_Abstract;
@@ -8,7 +8,7 @@ use Zend_Db_Table_Abstract;
 /**
  * Class Base
  *
- * @package App\ZendFormElementDiscovery\Element
+ * @package ms1570p\ZendFormElementDiscovery\Element
  */
 abstract class Base
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace App\ZendFormElementDiscovery\Element;
+namespace ms1570p\ZendFormElementDiscovery\Element;
 
 /**
  * Class Text
  *
- * @package App\ZendFormElementDiscovery\Element
+ * @package ms1570p\ZendFormElementDiscovery\Element
  */
 class Text extends Base
 {

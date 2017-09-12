@@ -1,11 +1,11 @@
 <?php
 
-namespace App\ZendFormElementDiscovery\Element;
+namespace ms1570p\ZendFormElementDiscovery\Element;
 
 /**
  * Class Url
  *
- * @package App\FormElementDiscovery\Element
+ * @package ms1570p\FormElementDiscovery\Element
  */
 class Url extends Base
 {

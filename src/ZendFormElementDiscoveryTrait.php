@@ -1,21 +1,21 @@
 <?php
 
-namespace App\ZendFormElementDiscovery;
+namespace ms1570p\ZendFormElementDiscovery;
 
-use App\ZendFormElementDiscovery\Element\Base;
-use App\ZendFormElementDiscovery\Element\Email;
-use App\ZendFormElementDiscovery\Element\Number;
-use App\ZendFormElementDiscovery\Element\Password;
-use App\ZendFormElementDiscovery\Element\Select;
-use App\ZendFormElementDiscovery\Element\Text;
-use App\ZendFormElementDiscovery\Element\Url;
+use ms1570p\ZendFormElementDiscovery\Element\Base;
+use ms1570p\ZendFormElementDiscovery\Element\Email;
+use ms1570p\ZendFormElementDiscovery\Element\Number;
+use ms1570p\ZendFormElementDiscovery\Element\Password;
+use ms1570p\ZendFormElementDiscovery\Element\Select;
+use ms1570p\ZendFormElementDiscovery\Element\Text;
+use ms1570p\ZendFormElementDiscovery\Element\Url;
 use Zend_Db_Table_Abstract;
 use Zend_Exception;
 
 /**
  * Class FormElementDiscoveryTrait
  *
- * @package App\ZendFormElementDiscovery
+ * @package ms1570p\ZendFormElementDiscovery
  */
 trait ZendFormElementDiscoveryTrait
 {
