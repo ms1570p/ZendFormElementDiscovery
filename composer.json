@@ -1,12 +1,11 @@
 {
   "name": "ms1570p/zend-form-element-discovery",
-  "minimum-stability": "dev",
   "require": {
     "zfbase/zend1-bootstrap3": "^1.0"
   },
   "autoload": {
     "psr-4": {
-      "Ms1570p\\ZendFormElementDiscovery\\": "src/"
+      "App\\ZendFormElementDiscovery\\": "src/"
     }
   },
   "config": {
