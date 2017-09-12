@@ -1,6 +1,5 @@
 {
   "name": "ms1570p/zend-form-element-discovery",
-  "version": "1.0",
   "minimum-stability": "stable",
   "require": {
     "zfbase/zend1-bootstrap3": "^1.0"
